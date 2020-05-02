@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffffbd;
+  background: #ffffc2;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2289,11 +2289,11 @@ embed {
   white-space: nowrap;
 }
 body {
-  background: url("https://images.unsplash.com/photo-1580537782437-8d6a0ca13de6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+  background: url("/images/3.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: 50% 50%;
+  background-position: 25% 75%;
   background-color: #74809a;
 }
 .main-inner {
