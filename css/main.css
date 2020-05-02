@@ -2289,16 +2289,16 @@ embed {
   white-space: nowrap;
 }
 body {
-  background: url("/images/3.jpg");
+  background: url("/images/4.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: 25% 75%;
+  background-position: 0% 0%;
   background-color: #74809a;
 }
 .main-inner {
   background: #fff;
-  opacity: 0.9;
+  opacity: 0.8;
 }
 .header-inner {
   opacity: 0.9;
